@@ -1,0 +1,7 @@
+python -m pip install notebook
+
+python -m pip install ipykernel
+
+python -m notebook --version
+
+python -m notebook
